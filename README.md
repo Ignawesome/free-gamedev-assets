@@ -80,7 +80,8 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 * **[Freepoly](https://www.freepoly.org/)** - *Gratis* - Biblioteca de modelos 3D realistas PBR.
 * **[The Base Mesh](https://thebasemesh.com/)** - *Gratis (CC0)* - Biblioteca de modelos 3D básicos (sin texturas), ideales como punto de partida para esculpir o modelar encima.
 * **[CGTrader](https://www.cgtrader.com/)** - *Mixto* - Marketplace de modelos 3D. *Filtra siempre por licencias CC0, MIT o Royalty Free antes de descargar para evitar problemas legales.*
-* **[Mixamo](https://www.mixamo.com/)** - *Gratis (Requiere cuenta de Adobe)* - Biblioteca de animaciones de captura de movimiento (Mocap) listas para aplicar a personajes humanoides.
+* **[Mixamo](https://www.mixamo.com/)** - *Gratis* - Biblioteca de animaciones de captura de movimiento (Mocap) listas para aplicar a personajes humanoides.
+* **[Mesh2Motion](https://mesh2motion.org/)** - *Gratis / Open Source* - Biblioteca de animaciones de personajes humanoides y animales.
 * **[GLTF Compressor](https://gltf-viewer.donmccurdy.com/)** - *Gratis* - Herramientas web para comprimir o visualizar modelos GLTF/GLB antes de meterlos al motor.
 
 ---
@@ -95,7 +96,7 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 ### Plugins Esenciales para Godot Engine
 * **[Indie Blueprint](https://indieblueprint.com/)** - Varios componentes y sistemas pre-armados que ahorran mucho tiempo de desarrollo.
 * **[Terrain 3D](https://github.com/TokisanGames/Terrain3D)** - *Gratis / Open Source* - Herramienta de esculpido de terreno de alto rendimiento directamente dentro de Godot.
-* **[Shaker](https://github.com/SquigglyLight/godot-shaker)** - *Gratis / Open Source* - Facilita enormemente la creación de movimientos bruscos, *camera shakes* o elementos repetitivos (game feel / juice).
+* **[Shaker](https://godotengine.org/asset-library/asset/3137)** - *Gratis / Open Source* - Facilita enormemente la creación de movimientos bruscos, *camera shakes* o elementos repetitivos (game feel / juice).
 * **[Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager)** - *Gratis / Open Source* - Posiblemente el mejor plugin (de Nathan Hoad) para crear y gestionar árboles de conversaciones y narrativas.
 * **[Phantom Camera](https://github.com/ramokz/phantom-camera)** - *Gratis / Open Source* - Transiciones fluidas, seguimiento automático y control de cámara estilo "Cinemachine", indispensable para juegos en 3ra persona.
 
@@ -111,19 +112,19 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 ### Generadores de Mapas y Diseño de Niveles
 * **[RPG Map Editor](https://deepnight.net/tools/rpg-map/)** - *Gratis* - Herramienta sencilla y rápida para dibujar mapas 2D estilo RPG.
 * **[Dungeon Scrawl](https://dungeonscrawl.com/)** - *Gratis / Premium* - Generador rápido de mapas de mazmorras estilo vieja escuela.
-* **[Watabou's Procgen Arcana](https://watabou.itch.io/)** - *Gratis* - Increíble suite de generadores procedurales para mapas de reinos, ciudades, aldeas, cuevas y mansiones.
+* **[Watabou's Procgen Arcana](https://watabou.github.io/)** - *Gratis* - Increíble suite de generadores procedurales para mapas de reinos, ciudades, aldeas, cuevas y mansiones.
 
 ### Herramientas Conceptuales
-* **[Deck of Lenses](https://schellgames.com/art-of-game-design/)** - *Gratis* - Versión digital de las cartas de *The Art of Game Design* de Jesse Schell. Útiles para analizar tu propio juego desde distintas perspectivas.
-* **[This Game Ain't Real](https://steamcommunity.com/sharedfiles/filedetails/?id=2472918458)** - *Mod de Tabletop Simulator* - Un juego de mesa (mod) diseñado para hacer brainstorming disparatado y forzarte a contrastar mecánicas rápido.
+* **[Deck of Lenses](https://deck.artofgamedesign.com/#/?lang=es)** - *Gratis* - Versión digital de las cartas de *The Art of Game Design* de Jesse Schell. Útiles para analizar tu propio juego desde distintas perspectivas.
+* **[This Game Ain't Real](https://steamcommunity.com/sharedfiles/filedetails/?id=3134345593)** - *Mod de Tabletop Simulator* - Un juego de mesa (mod) diseñado para hacer brainstorming disparatado y forzarte a contrastar mecánicas rápido.
 
 ---
 
 ## 🛠️ 6. Utilidades Varias y Miscelánea
 
 * **[GraphToy](https://graphtoy.com/)** - *Gratis* - Herramienta de Iñigo Quílez para visualizar curvas matemáticas y prever funciones (súper útil para shaders y animaciones procedimentales).
-* **[Easings](https://easings.net/es)** - *Gratis* - Hoja de trucos (cheat sheet) visual con las fórmulas matemáticas detrás de las funciones de interpolación (Tweens).
-* **[Godot Voice Generator](https://github.com/you-win/godot-voice-generator)** - *Gratis / Open Source* - Generador de voces procedurales estilo Animal Crossing.
+* **[Easings](https://easings.net)** - *Gratis* - Hoja de trucos (cheat sheet) visual con las fórmulas matemáticas detrás de las funciones de interpolación (Tweens).
+* **[Godot Voice Generator](https://tntc-lab.itch.io/godot-voice-generator)** - *Gratis / Open Source* - Generador de voces procedurales estilo Animal Crossing.
 * **[Tweens Editor](https://qaqelol.itch.io/tweens)** - *Gratis* - Herramienta para visualizar curvas de animación tweening.
 * **[Google Fonts](https://fonts.google.com/)** - *Gratis / Open Source* - Miles de tipografías gratuitas listas para integrar en tu interfaz.
 * **[Noclip.website](https://noclip.website/)** - *Gratis* - Museo digital que te permite volar en 3D libremente por los escenarios extraídos de juegos clásicos (Dark Souls, Portal, Mario, etc.). Excelente para estudiar arquitectura de niveles profesional.
