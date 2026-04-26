@@ -1,1 +1,130 @@
-# free-gamedev-assets
+
+# 🎮 Repositorio de Herramientas para Desarrollo de Videojuegos
+
+Una colección curada de herramientas, software y recursos (la gran mayoría gratuitos o de código abierto) para que cualquier persona pueda dar sus primeros pasos en el desarrollo de videojuegos sin preocuparse por licencias costosas.
+
+---
+
+## 🎨 1. Arte y Gráficos 2D
+
+### Software de Creación y Edición
+* **[GIMP](https://www.gimp.org/)** - *Gratis / Open Source* - Edición y manipulación de imágenes avanzada.
+* **[Krita](https://krita.org/)** - *Gratis / Open Source* - La herramienta por excelencia para ilustración y pintura digital.
+* **[Friction](https://friction.graphics/)** - *Gratis / Open Source* - Software emergente para animación vectorial 2D y edición de video.
+* **[Piskel](https://www.piskelapp.com/)** - *Gratis / Open Source* - Editor online y offline excelente para hacer pixel art y spritesheets de forma rápida y simple.
+* **[Pixelorama](https://orama-interactive.itch.io/pixelorama)** - *Gratis / Open Source* - Editor de pixel art muy completo (¡y está hecho en Godot!).
+* **[PixiEditor](https://pixieditor.net/)** - *Gratis / Open Source* - Editor de gráficos 2D universal con un diseño moderno.
+* **[SLK_img2pixel](https://captain4lk.itch.io/slk-img2pixel)** - *Gratis / Paga lo que quieras* - Herramienta genial para convertir imágenes normales a estilo pixel art, con opciones de dither.
+
+### Generadores y Utilidades Visuales
+* **[Lospec](https://lospec.com/)** - *Gratis* - Repositorio gigante de paletas de colores, tutoriales y herramientas para pixel art.
+* **[CoMiGo's Palette Generator](https://comigo.itch.io/palette-generator)** - *Gratis* - Generador procedural de paletas de colores.
+* **[ColorSpace](https://mycolor.space/)** - *Gratis* - Genera paletas de colores completas a partir de un solo color base.
+* **[Color HEX](https://www.color-hex.com/)** - *Gratis* - Análisis profundo de color, valores RGB/HEX y colores complementarios.
+* **[Make Seamless Texture](https://www.imgonline.com.ua/eng/make-seamless-texture.php)** - *Gratis* - Utilidad web para hacer que cualquier imagen se vuelva una textura tileable (que se repite sin cortes).
+* **[Simple Texture Ripper](https://pizzadoggy.itch.io/simple-ripper)** - *Gratis* - Utilidad para extraer texturas.
+* **[BitFX Forge](https://pizzadoggy.itch.io/bitfx-forge)** - *Gratis / Paga lo que quieras* - Creador de hojas de sprites de partículas 2D.
+* **[Universal LPC Sprite Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/)** - *Gratis / Open Source* - Generador de personajes 2D top-down con muchísimos assets intercambiables.
+
+### Fuentes de Assets e Imágenes
+* **[Unsplash](https://unsplash.com/)** - *Gratis (Licencia Unsplash)* - Imágenes y fotografías de altísima calidad. Se pueden usar en cualquier proyecto, ideales para texturas base o referencias.
+* **[Kenney (UI)](https://kenney.nl/assets/category:ui)** - *Gratis (CC0 / Dominio Público)* - El rey de los assets indie. Su sección de Interfaces de Usuario (UI) es imprescindible para prototipar.
+* **[Game UI Database](https://www.gameuidatabase.com/)** - *Gratis* - No son assets descargables, sino la mejor biblioteca de referencias visuales sobre cómo diseñan la UI los juegos profesionales.
+
+---
+
+## 🎵 2. Sonido y Música
+
+### Software de Creación y Edición
+* **[Audacity](https://www.audacityteam.org/)** - *Gratis / Open Source* - El editor y grabador de audio estándar. Fundamental para limpiar voces o cortar efectos.
+* **[Bosca Ceoil Blue](https://boscaceoil.net/)** - *Gratis / Open Source* - Programa súper accesible e intuitivo para crear música chiptune/MIDI paso a paso. Ideal para Jams.
+* **[Bandlab](https://www.bandlab.com/)** - *Gratis* - DAW (Estación de trabajo de audio digital) colaborativo online en el navegador.
+* **[SFXR / BFXR](https://www.bfxr.net/)** - *Gratis* - Generador instantáneo de efectos de sonido estilo 8-bit (saltos, lásers, golpes).
+* **[rFXgen](https://raylibtech.itch.io/rfxgen)** - *Gratis* - Generador de sonidos retro procedurales, simple y portable.
+* **[Chiptone](https://sfbgames.itch.io/chiptone)** - *Gratis* - Herramienta web visual e intuitiva para generar efectos de sonido retro.
+
+### Fuentes de Assets de Audio
+* **[Freesound](https://freesound.org/)** - *Gratis (Varias Licencias CC)* - La base de datos más grande de efectos de sonido colaborativos. (Revisar siempre si pide atribución o si es CC0).
+* **[Kenney (Audio)](https://kenney.nl/assets/category:audio)** - *Gratis (CC0)* - Packs de música y efectos de sonido listos para usar sin preocuparse por derechos.
+* **[SONNISS GDC Audio Archive](https://sonniss.com/gameaudiogdc)** - *Gratis (Royalty Free)* - Gigantesca biblioteca de sonidos profesionales y de alta fidelidad que regalan todos los años durante la Game Developers Conference.
+* **[YouTube Audio Library](https://studio.youtube.com/)** - *Gratis* - Música y efectos de sonido libres de derechos, accesibles desde el YouTube Creator Studio.
+
+---
+
+## 🧊 3. Modelado 3D y Animación
+
+### Software Principal
+* **[Blender](https://www.blender.org/)** - *Gratis / Open Source* - La bestia del 3D. Modelado, animación, rigging y renderizado. *(Nota: Requiere tiempo de aprendizaje, no es ideal para aprender durante una Jam de 3 días).*
+    * *Tutorial recomendado:* **[Blender Beginner Tutorial (Press Start)](https://www.youtube.com/watch?v=nIoXOplUvAw)** de CG Fast Track.
+    * *Guía recomendada:* **[Qodot / Nivel estilo Source Engine a Godot](https://qodotplugin.github.io/)** (Alternativa para flujos de trabajo BSP).
+* **[MagicaVoxel](https://ephtracy.github.io/)** - *Gratis* - Editor ligero e increíble para crear arte en 3D estilo Voxel (cubos).
+* **[Blockbench](https://www.blockbench.net/)** - *Gratis / Open Source* - Editor de modelos low-poly y animación, conocido por ser el estándar para estilo Minecraft.
+* **[MakeHuman](http://www.makehumancommunity.org/)** - *Gratis / Open Source* - Editor paramétrico para generar personajes y humanos 3D rápidamente.
+
+### Plugins y Add-ons para Blender
+* **[Ucupaint](https://github.com/ucupumar/ucupaint)** - *Gratis / Open Source* - Una alternativa directa a Substance Painter para gestionar capas de texturas en Blender.
+* **[BlenderKit](https://www.blenderkit.com/)** - *Gratis / Premium* - Extensión para arrastrar y soltar modelos, materiales y pinceles directamente dentro de Blender.
+* **[Rigodotify](https://felesmachina.itch.io/rigodotify)** - *Gratis / Pago opcional* - Facilita enormemente el traspaso de Rigs y esqueletos de Blender a Godot.
+* **[Quick Menu / Machin3tools](https://machin3.io/MACHIN3tools/)** - *Gratis / Pago opcional* - Atajos y menús radiales avanzados para acelerar el modelado.
+* **[Tiny Eye](https://tinynocky.gumroad.com/l/tinyeye)** - *Gratis* - Generador procedural de ojos realistas y estilizados en Blender.
+* **[Texel Density Checker](https://gumroad.com/l/texel_density_checker)** - *Gratis* - Herramienta para asegurar que la resolución (densidad de píxeles) de tus texturas sea consistente en todo el modelo.
+
+### Fuentes de Assets 3D (Texturas, Modelos y Animaciones)
+* **[PolyHaven](https://polyhaven.com/)** - *Gratis (CC0)* - Modelos 3D, texturas PBR y mapas HDRI de altísima calidad.
+* **[Ambient CG](https://ambientcg.com/)** - *Gratis (CC0)* - Excelente repositorio de materiales físicos (PBR) sin costuras.
+* **[3D Textures](https://3dtextures.me/)** - *Gratis* - Texturas PBR listas para usar en materiales.
+* **[Material Maker](https://www.materialmaker.org/)** - *Gratis / Open Source* - Herramienta procedural de creación de texturas basada en nodos (Hecha en Godot).
+* **[Quaternius](https://quaternius.com/)** - *Gratis (CC0)* - Cientos de modelos 3D estilizados, listos para videojuegos e ideales para prototipar.
+* **[Kenney (3D)](https://kenney.nl/assets/category:3D)** - *Gratis (CC0)* - Kits modulares de construcción en 3D para escenarios rápidos.
+* **[PolyPizza](https://poly.pizza/)** - *Gratis (Varias Licencias CC)* - Repositorio masivo de modelos 3D low poly.
+* **[Freepoly](https://www.freepoly.org/)** - *Gratis* - Biblioteca de modelos 3D realistas PBR.
+* **[The Base Mesh](https://thebasemesh.com/)** - *Gratis (CC0)* - Biblioteca de modelos 3D básicos (sin texturas), ideales como punto de partida para esculpir o modelar encima.
+* **[CGTrader](https://www.cgtrader.com/)** - *Mixto* - Marketplace de modelos 3D. *Filtra siempre por licencias CC0, MIT o Royalty Free antes de descargar para evitar problemas legales.*
+* **[Mixamo](https://www.mixamo.com/)** - *Gratis (Requiere cuenta de Adobe)* - Biblioteca de animaciones de captura de movimiento (Mocap) listas para aplicar a personajes humanoides.
+* **[GLTF Compressor](https://gltf-viewer.donmccurdy.com/)** - *Gratis* - Herramientas web para comprimir o visualizar modelos GLTF/GLB antes de meterlos al motor.
+
+---
+
+## 💻 4. Programación y Motores
+
+### Recursos y Conocimiento
+* **[Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)** - *Gratis (Lectura Online)* - El libro sagrado sobre arquitectura de código. Te enseña cómo estructurar un juego para que no termine siendo un código espagueti.
+* **[GameMath](https://gamemath.com/book/intro.html)** - *Gratis (Lectura Online)* - Libro web sobre matemáticas aplicadas al desarrollo de videojuegos (vectores, matrices, cuaterniones).
+* **[Godot Shaders](https://godotshaders.com/)** - *Gratis* - Biblioteca comunitaria de efectos visuales (shaders) listos para copiar y pegar en Godot.
+
+### Plugins Esenciales para Godot Engine
+* **[Indie Blueprint](https://indieblueprint.com/)** - Varios componentes y sistemas pre-armados que ahorran mucho tiempo de desarrollo.
+* **[Terrain 3D](https://github.com/TokisanGames/Terrain3D)** - *Gratis / Open Source* - Herramienta de esculpido de terreno de alto rendimiento directamente dentro de Godot.
+* **[Shaker](https://github.com/SquigglyLight/godot-shaker)** - *Gratis / Open Source* - Facilita enormemente la creación de movimientos bruscos, *camera shakes* o elementos repetitivos (game feel / juice).
+* **[Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager)** - *Gratis / Open Source* - Posiblemente el mejor plugin (de Nathan Hoad) para crear y gestionar árboles de conversaciones y narrativas.
+* **[Phantom Camera](https://github.com/ramokz/phantom-camera)** - *Gratis / Open Source* - Transiciones fluidas, seguimiento automático y control de cámara estilo "Cinemachine", indispensable para juegos en 3ra persona.
+
+---
+
+## 📐 5. Game Design y Producción
+
+### Diseño UX/UI y Documentación
+* **[Penpot](https://penpot.app/)** - *Gratis / Open Source* - La mejor alternativa libre a Figma. Diseño colaborativo de interfaces y prototipos.
+* **[Excalidraw](https://excalidraw.com/)** - *Gratis* - Pizarra de dibujo de trazo manual con colaboración online, genial para bocetar niveles o sistemas.
+* **[Obsidian](https://obsidian.md/)** - *Gratis (Uso Personal)* - Creador de bases de conocimiento. Fundamental para crear la Biblia de Diseño (GDD) o wikis internas del lore conectando notas.
+
+### Generadores de Mapas y Diseño de Niveles
+* **[RPG Map Editor](https://deepnight.net/tools/rpg-map/)** - *Gratis* - Herramienta sencilla y rápida para dibujar mapas 2D estilo RPG.
+* **[Dungeon Scrawl](https://dungeonscrawl.com/)** - *Gratis / Premium* - Generador rápido de mapas de mazmorras estilo vieja escuela.
+* **[Watabou's Procgen Arcana](https://watabou.itch.io/)** - *Gratis* - Increíble suite de generadores procedurales para mapas de reinos, ciudades, aldeas, cuevas y mansiones.
+
+### Herramientas Conceptuales
+* **[Deck of Lenses](https://schellgames.com/art-of-game-design/)** - *Gratis* - Versión digital de las cartas de *The Art of Game Design* de Jesse Schell. Útiles para analizar tu propio juego desde distintas perspectivas.
+* **[This Game Ain't Real](https://steamcommunity.com/sharedfiles/filedetails/?id=2472918458)** - *Mod de Tabletop Simulator* - Un juego de mesa (mod) diseñado para hacer brainstorming disparatado y forzarte a contrastar mecánicas rápido.
+
+---
+
+## 🛠️ 6. Utilidades Varias y Miscelánea
+
+* **[GraphToy](https://graphtoy.com/)** - *Gratis* - Herramienta de Iñigo Quílez para visualizar curvas matemáticas y prever funciones (súper útil para shaders y animaciones procedimentales).
+* **[Easings](https://easings.net/es)** - *Gratis* - Hoja de trucos (cheat sheet) visual con las fórmulas matemáticas detrás de las funciones de interpolación (Tweens).
+* **[Godot Voice Generator](https://github.com/you-win/godot-voice-generator)** - *Gratis / Open Source* - Generador de voces procedurales estilo Animal Crossing.
+* **[Tweens Editor](https://qaqelol.itch.io/tweens)** - *Gratis* - Herramienta para visualizar curvas de animación tweening.
+* **[Google Fonts](https://fonts.google.com/)** - *Gratis / Open Source* - Miles de tipografías gratuitas listas para integrar en tu interfaz.
+* **[Noclip.website](https://noclip.website/)** - *Gratis* - Museo digital que te permite volar en 3D libremente por los escenarios extraídos de juegos clásicos (Dark Souls, Portal, Mario, etc.). Excelente para estudiar arquitectura de niveles profesional.
+* **[Awesome CC0](https://github.com/kchapelier/awesome-cc0)** - *Gratis* - El repositorio supremo en GitHub con links a recursos, assets y herramientas que están puramente en Dominio Público (CC0).
