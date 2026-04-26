@@ -129,3 +129,38 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 * **[Google Fonts](https://fonts.google.com/)** - *Gratis / Open Source* - Miles de tipografías gratuitas listas para integrar en tu interfaz.
 * **[Noclip.website](https://noclip.website/)** - *Gratis* - Museo digital que te permite volar en 3D libremente por los escenarios extraídos de juegos clásicos (Dark Souls, Portal, Mario, etc.). Excelente para estudiar arquitectura de niveles profesional.
 * **[Awesome CC0](https://github.com/kchapelier/awesome-cc0)** - *Gratis* - El repositorio supremo en GitHub con links a recursos, assets y herramientas que están puramente en Dominio Público (CC0).
+
+
+¡Excelente idea sumar plantillas al repositorio! Arrancar un proyecto desde cero siempre es tedioso, y tener una buena base ahorra muchísimas horas de configuración inicial.
+
+Me enfoqué en buscar repositorios para **Godot 4.x** que tienen un mantenimiento activo (con *commits* y actualizaciones en 2025 o principios de 2026) y que abarcan desde lo más general hasta géneros muy específicos. Aquí tienes la lista formateada en Markdown:
+
+***
+
+## 📦 7. Plantillas Base y Frameworks para Godot 4
+
+### 🛠️ Base Universal (Cualquier género)
+* **[Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template)**
+    * **Licencia:** MIT
+    * **Descripción:** Es, de lejos, la mejor plantilla fundamental para Godot 4. No te impone mecánicas de juego, sino que te resuelve toda la "burocracia" del desarrollo: viene con un menú principal pulido, menú de opciones (pantalla, sliders de audio, controles mapeables), menú de pausa, créditos y un gestor de carga de escenas. Es el punto de partida perfecto para literalmente cualquier proyecto serio.
+
+### 🔮 Simuladores Inmersivos y Sistemas Complejos
+* **[COGITO](https://github.com/Phazor/COGITO)**
+    * **Licencia:** MIT
+    * **Descripción:** Un framework increíble si estás armando mecánicas de inventario, interacción compleja con objetos del entorno o sistemas de stats y daño. Tiene una arquitectura avanzadísima que te permite gestionar contenedores, puertas, llaves y terminales. Viene ideal si buscas crear una experiencia con sistemas interactivos, magia o combate simulado al estilo *System Shock* o *Deus Ex*.
+
+### 🔫 First-Person Shooters (FPS)
+* **[Godot4-FPS-Template](https://github.com/chafmere/Godot4-FPS-Template)** (por chafmere)
+    * **Licencia:** MIT
+    * **Descripción:** Una plantilla que utiliza máquinas de estados y componentes para manejar armas, físicas de proyectiles (tanto *hitscan* como proyectiles físicos) y patrones de retroceso (*spray*). Es altamente modular, lo que facilita intercambiar piezas o añadir armas nuevas sin romper el sistema de movimiento del personaje.
+
+### 🕹️ Plataformas y Arcade 2D
+* **[Godot 2D Platformer Starter Kit](https://github.com/brettchalupa/godot_2d_platformer)** (por Brett Chalupa)
+    * **Licencia:** CC0 (Dominio Público)
+    * **Descripción:** Una plantilla súper robusta que incluye control del jugador (con física ajustada, *coyote time*, *jump buffer*), transiciones de niveles, coleccionables y menús. Lo más destacable es que tiene una estructura de código muy limpia y comentada; es fantástico no solo para prototipar rápido en una jam, sino también para usarlo como material didáctico al explicar buenas prácticas y patrones de código en Godot.
+
+### 🦴 Estructura y Organización
+* **[Barebone](https://github.com/sempitern0/Barebone/tree/main)** (por sempitern0)
+    * **Licencia:** MIT
+    * **Descripción:** Como su nombre lo indica, es un "esqueleto" minimalista para Godot 4. Está diseñado para desarrolladores que quieren evitar el desorden inicial y empezar con una arquitectura profesional. No incluye mecánicas de juego específicas, sino que se centra en la infraestructura. Es más avanzado que los otros pero sirve para tener una idea de como armar sistemas más complejos.
+***
