@@ -82,7 +82,7 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 * **[CGTrader](https://www.cgtrader.com/)** - *Mixto* - Marketplace de modelos 3D. *Filtra siempre por licencias CC0, MIT o Royalty Free antes de descargar para evitar problemas legales.*
 * **[Mixamo](https://www.mixamo.com/)** - *Gratis* - Biblioteca de animaciones de captura de movimiento (Mocap) listas para aplicar a personajes humanoides.
 * **[Mesh2Motion](https://mesh2motion.org/)** - *Gratis / Open Source* - Biblioteca de animaciones de personajes humanoides y animales.
-* **[GLTF Compressor](https://gltf-viewer.donmccurdy.com/)** - *Gratis* - Herramientas web para comprimir o visualizar modelos GLTF/GLB antes de meterlos al motor.
+* **[GLTF Compressor](https://gltf-compressor.com/)** - *Gratis* - Herramientas web para comprimir o visualizar modelos GLTF/GLB antes de meterlos al motor.
 
 ---
 
