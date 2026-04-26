@@ -18,7 +18,7 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 
 ### Generadores y Utilidades Visuales
 * **[Lospec](https://lospec.com/)** - *Gratis* - Repositorio gigante de paletas de colores, tutoriales y herramientas para pixel art.
-* **[CoMiGo's Palette Generator](https://comigo.itch.io/palette-generator)** - *Gratis* - Generador procedural de paletas de colores.
+* **[CoMiGo's Palette Generator](https://comigo.itch.io/palettesfff)** - *Gratis* - Generador procedural de paletas de colores.
 * **[ColorSpace](https://mycolor.space/)** - *Gratis* - Genera paletas de colores completas a partir de un solo color base.
 * **[Color HEX](https://www.color-hex.com/)** - *Gratis* - Análisis profundo de color, valores RGB/HEX y colores complementarios.
 * **[Make Seamless Texture](https://www.imgonline.com.ua/eng/make-seamless-texture.php)** - *Gratis* - Utilidad web para hacer que cualquier imagen se vuelva una textura tileable (que se repite sin cortes).
@@ -37,7 +37,7 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 
 ### Software de Creación y Edición
 * **[Audacity](https://www.audacityteam.org/)** - *Gratis / Open Source* - El editor y grabador de audio estándar. Fundamental para limpiar voces o cortar efectos.
-* **[Bosca Ceoil Blue](https://boscaceoil.net/)** - *Gratis / Open Source* - Programa súper accesible e intuitivo para crear música chiptune/MIDI paso a paso. Ideal para Jams.
+* **[Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue)** - *Gratis / Open Source* - Programa súper accesible e intuitivo para crear música chiptune/MIDI paso a paso. Ideal para Jams.
 * **[Bandlab](https://www.bandlab.com/)** - *Gratis* - DAW (Estación de trabajo de audio digital) colaborativo online en el navegador.
 * **[SFXR / BFXR](https://www.bfxr.net/)** - *Gratis* - Generador instantáneo de efectos de sonido estilo 8-bit (saltos, lásers, golpes).
 * **[rFXgen](https://raylibtech.itch.io/rfxgen)** - *Gratis* - Generador de sonidos retro procedurales, simple y portable.
@@ -45,9 +45,9 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 
 ### Fuentes de Assets de Audio
 * **[Freesound](https://freesound.org/)** - *Gratis (Varias Licencias CC)* - La base de datos más grande de efectos de sonido colaborativos. (Revisar siempre si pide atribución o si es CC0).
-* **[Kenney (Audio)](https://kenney.nl/assets/category:audio)** - *Gratis (CC0)* - Packs de música y efectos de sonido listos para usar sin preocuparse por derechos.
+* **[Kenney (Audio)](https://kenney.nl/assets/category:Audio)** - *Gratis (CC0)* - Packs de música y efectos de sonido listos para usar sin preocuparse por derechos.
 * **[SONNISS GDC Audio Archive](https://sonniss.com/gameaudiogdc)** - *Gratis (Royalty Free)* - Gigantesca biblioteca de sonidos profesionales y de alta fidelidad que regalan todos los años durante la Game Developers Conference.
-* **[YouTube Audio Library](https://studio.youtube.com/)** - *Gratis* - Música y efectos de sonido libres de derechos, accesibles desde el YouTube Creator Studio.
+* **[YouTube Audio Library](https://studio.youtube.com/channel/UClRh13Skq7NQ8RdfaX-HkGw/music)** - *Gratis* - Música y efectos de sonido libres de derechos, accesibles desde el YouTube Creator Studio.
 
 ---
 
@@ -55,8 +55,8 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 
 ### Software Principal
 * **[Blender](https://www.blender.org/)** - *Gratis / Open Source* - La bestia del 3D. Modelado, animación, rigging y renderizado. *(Nota: Requiere tiempo de aprendizaje, no es ideal para aprender durante una Jam de 3 días).*
-    * *Tutorial recomendado:* **[Blender Beginner Tutorial (Press Start)](https://www.youtube.com/watch?v=nIoXOplUvAw)** de CG Fast Track.
-    * *Guía recomendada:* **[Qodot / Nivel estilo Source Engine a Godot](https://qodotplugin.github.io/)** (Alternativa para flujos de trabajo BSP).
+    * *Tutorial recomendado:* **[Blender Beginner Tutorial (Press Start)](https://cgcookie.com/courses/press-start-your-simple-first-blender-project)** de CG Fast Track.
+    * *Guía recomendada:* **[Nivel estilo Source Engine a Godot](https://www.reddit.com/r/godot/comments/1g6k38h/sourcestyle_level_design_in_blender_tutorial/)** (En inglés).
 * **[MagicaVoxel](https://ephtracy.github.io/)** - *Gratis* - Editor ligero e increíble para crear arte en 3D estilo Voxel (cubos).
 * **[Blockbench](https://www.blockbench.net/)** - *Gratis / Open Source* - Editor de modelos low-poly y animación, conocido por ser el estándar para estilo Minecraft.
 * **[MakeHuman](http://www.makehumancommunity.org/)** - *Gratis / Open Source* - Editor paramétrico para generar personajes y humanos 3D rápidamente.
@@ -65,9 +65,9 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 * **[Ucupaint](https://github.com/ucupumar/ucupaint)** - *Gratis / Open Source* - Una alternativa directa a Substance Painter para gestionar capas de texturas en Blender.
 * **[BlenderKit](https://www.blenderkit.com/)** - *Gratis / Premium* - Extensión para arrastrar y soltar modelos, materiales y pinceles directamente dentro de Blender.
 * **[Rigodotify](https://felesmachina.itch.io/rigodotify)** - *Gratis / Pago opcional* - Facilita enormemente el traspaso de Rigs y esqueletos de Blender a Godot.
-* **[Quick Menu / Machin3tools](https://machin3.io/MACHIN3tools/)** - *Gratis / Pago opcional* - Atajos y menús radiales avanzados para acelerar el modelado.
+* **[Quick Menu by PassiveStar](https://www.youtube.com/watch?v=55Vju6LYL6M)** - *Gratis / Pago opcional* - Atajos y menús radiales avanzados para acelerar el modelado.
 * **[Tiny Eye](https://tinynocky.gumroad.com/l/tinyeye)** - *Gratis* - Generador procedural de ojos realistas y estilizados en Blender.
-* **[Texel Density Checker](https://gumroad.com/l/texel_density_checker)** - *Gratis* - Herramienta para asegurar que la resolución (densidad de píxeles) de tus texturas sea consistente en todo el modelo.
+* **[Texel Density Checker](https://extensions.blender.org/add-ons/texel-density-checker/)** - *Gratis* - Herramienta para asegurar que la resolución (densidad de píxeles) de tus texturas sea consistente en todo el modelo.
 
 ### Fuentes de Assets 3D (Texturas, Modelos y Animaciones)
 * **[PolyHaven](https://polyhaven.com/)** - *Gratis (CC0)* - Modelos 3D, texturas PBR y mapas HDRI de altísima calidad.
