@@ -132,10 +132,6 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 * **[Awesome CC0](https://github.com/kchapelier/awesome-cc0)** - *Gratis* - El repositorio supremo en GitHub con links a recursos, assets y herramientas que están puramente en Dominio Público (CC0).
 
 
-¡Excelente idea sumar plantillas al repositorio! Arrancar un proyecto desde cero siempre es tedioso, y tener una buena base ahorra muchísimas horas de configuración inicial.
-
-Me enfoqué en buscar repositorios para **Godot 4.x** que tienen un mantenimiento activo (con *commits* y actualizaciones en 2025 o principios de 2026) y que abarcan desde lo más general hasta géneros muy específicos. Aquí tienes la lista formateada en Markdown:
-
 ***
 
 ## 📦 7. Plantillas Base y Frameworks para Godot 4
@@ -164,10 +160,16 @@ Me enfoqué en buscar repositorios para **Godot 4.x** que tienen un mantenimient
 * **[Barebone](https://github.com/sempitern0/Barebone/tree/main)** (por sempitern0)
     * **Licencia:** MIT
     * **Descripción:** Como su nombre lo indica, es un "esqueleto" minimalista para Godot 4. Está diseñado para desarrolladores que quieren evitar el desorden inicial y empezar con una arquitectura profesional. No incluye mecánicas de juego específicas, sino que se centra en la infraestructura. Es más avanzado que los otros pero sirve para tener una idea de como armar sistemas más complejos.
+
 ***
 
 
-🌐 Links de interés:
-📃 [Plantilla de división de tareas para gamejams](https://docs.google.com/spreadsheets/d/1N3EPOI7-2PS3EJXHOnbQHCum05WZj75_Ua2cWC4pQO8/edit?usp=sharing)
-📃 [Plantilla de GDD para gamejams](https://docs.google.com/document/d/1QE51JW1jkcJk1hjXjJkn9k14QQQcGmujRUsCCWqW-hM/edit?tab=t.0)
-🔗 [Mis redes](https://linktr.ee/astrades.studio)
+### 🌐 Recursos para Jams
+* **📃 [Plantilla de división de tareas para gamejams](https://docs.google.com/spreadsheets/d/1N3EPOI7-2PS3EJXHOnbQHCum05WZj75_Ua2cWC4pQO8/edit?usp=sharing)**
+* **📃 [Plantilla de GDD para gamejams](https://docs.google.com/document/d/1QE51JW1jkcJk1hjXjJkn9k14QQQcGmujRUsCCWqW-hM/edit?tab=t.0)**
+
+***
+
+<img width="5333" height="5333" alt="Astrades Logo Curves-01" src="https://github.com/user-attachments/assets/697412cc-71d2-481e-954f-9c252a98d4f2" />
+
+* 🔗 **[Mis redes](https://linktr.ee/astrades.studio)**
