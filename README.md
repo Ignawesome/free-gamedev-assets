@@ -25,6 +25,7 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 * **[Simple Texture Ripper](https://pizzadoggy.itch.io/simple-ripper)** - *Gratis* - Utilidad para extraer texturas.
 * **[BitFX Forge](https://pizzadoggy.itch.io/bitfx-forge)** - *Gratis / Paga lo que quieras* - Creador de hojas de sprites de partículas 2D.
 * **[Universal LPC Sprite Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/)** - *Gratis / Open Source* - Generador de personajes 2D top-down con muchísimos assets intercambiables.
+* **[WhoCanUse](https://www.whocanuse.com/)** - *Gratis* - Revisa la accesibilidad de tu paleta de colores.
 
 ### Fuentes de Assets e Imágenes
 * **[Unsplash](https://unsplash.com/)** - *Gratis (Licencia Unsplash)* - Imágenes y fotografías de altísima calidad. Se pueden usar en cualquier proyecto, ideales para texturas base o referencias.
