@@ -174,7 +174,7 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 
 <p align="center">
   <a href="https://linktr.ee/astrades.studio">
-    <img width="800" height="800" alt="Astrades Logo" src="https://github.com/user-attachments/assets/697412cc-71d2-481e-954f-9c252a98d4f2" />
+    <img width="400" height="400" alt="Astrades Logo" src="https://github.com/user-attachments/assets/697412cc-71d2-481e-954f-9c252a98d4f2" />
   </a>
 </p>
 
