@@ -165,3 +165,9 @@ Me enfoqué en buscar repositorios para **Godot 4.x** que tienen un mantenimient
     * **Licencia:** MIT
     * **Descripción:** Como su nombre lo indica, es un "esqueleto" minimalista para Godot 4. Está diseñado para desarrolladores que quieren evitar el desorden inicial y empezar con una arquitectura profesional. No incluye mecánicas de juego específicas, sino que se centra en la infraestructura. Es más avanzado que los otros pero sirve para tener una idea de como armar sistemas más complejos.
 ***
+
+
+🌐 Links de interés:
+📃 [Plantilla de división de tareas para gamejams](https://docs.google.com/spreadsheets/d/1N3EPOI7-2PS3EJXHOnbQHCum05WZj75_Ua2cWC4pQO8/edit?usp=sharing)
+📃 [Plantilla de GDD para gamejams](https://docs.google.com/document/d/1QE51JW1jkcJk1hjXjJkn9k14QQQcGmujRUsCCWqW-hM/edit?tab=t.0)
+🔗 [Mis redes](https://linktr.ee/astrades.studio)
