@@ -170,6 +170,12 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 
 ***
 
-<img width="5333" height="5333" alt="Astrades Logo Curves-01" src="https://github.com/user-attachments/assets/697412cc-71d2-481e-954f-9c252a98d4f2" />
-
 * 🔗 **[Mis redes](https://linktr.ee/astrades.studio)**
+
+<p align="center">
+  <a href="https://linktr.ee/astrades.studio">
+    <img width="800" height="800" alt="Astrades Logo" src="https://github.com/user-attachments/assets/697412cc-71d2-481e-954f-9c252a98d4f2" />
+  </a>
+</p>
+
+
