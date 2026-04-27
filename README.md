@@ -1,6 +1,6 @@
-<p align="center">
+<p align="left">
   <a href="https://linktr.ee/astrades.studio">
-    <img width="400" height="400" alt="Astrades Logo" src="https://github.com/user-attachments/assets/697412cc-71d2-481e-954f-9c252a98d4f2" />
+    <img width="100" height="100" alt="Astrades Logo" src="https://github.com/user-attachments/assets/697412cc-71d2-481e-954f-9c252a98d4f2" />
   </a>
 </p>
 
