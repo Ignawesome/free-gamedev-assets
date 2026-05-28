@@ -135,7 +135,10 @@ Una colección curada de herramientas, software y recursos (la gran mayoría gra
 * **[Tweens Editor](https://qaqelol.itch.io/tweens)** - *Gratis* - Herramienta para visualizar curvas de animación tweening.
 * **[Google Fonts](https://fonts.google.com/)** - *Gratis / Open Source* - Miles de tipografías gratuitas listas para integrar en tu interfaz.
 * **[Noclip.website](https://noclip.website/)** - *Gratis* - Museo digital que te permite volar en 3D libremente por los escenarios extraídos de juegos clásicos (Dark Souls, Portal, Mario, etc.). Excelente para estudiar arquitectura de niveles profesional.
+* **[Dials](https://artofpilgrim.github.io/Dials/)** - *Gratis* - Aplicación para la creación de diales gráficos (velocímetros).
+* **[Levels](https://artofpilgrim.github.io/levels/)** - *Gratis* - Aplicación para crear máscaras y filtros.
 * **[Awesome CC0](https://github.com/kchapelier/awesome-cc0)** - *Gratis* - El repositorio supremo en GitHub con links a recursos, assets y herramientas que están puramente en Dominio Público (CC0).
+
 
 
 ***
